@@ -1,5 +1,5 @@
 # Discord-Bookmark-Token-Logger-Free
-discord bookmark logger that i made, which was pretty easy.
+discord bookmark logger which comes with an auto login feature which was pretty easy.
 
 you can resell this or use it to log people
 
